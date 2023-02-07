@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'SFProText';
+  src: url('SFProText-Regular.eot');
+  src: url('SFProText-Regular.eot?#iefix') format('embedded-opentype'),
+    url('SFProText-Regular.woff2') format('woff2'),
+    url('SFProText-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SFProText';
+  src: url('SFProText-BoldItalic.eot');
+  src: url('SFProText-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('SFProText-BoldItalic.woff2') format('woff2'),
+    url('SFProText-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
